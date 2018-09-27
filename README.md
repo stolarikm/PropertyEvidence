@@ -1,4 +1,4 @@
-# PV168 - evidencia nemovitostí
+# PV168 - evidencia nehnuteľností
 Táto aplikácia predstavuje jednoduchú simuláciu systému pre realitnú spoločnosť.
 Umožňuje evidenciu majetku, klientov a predajných zmlúv s možnosťou vyhladávania,
 podľa parametrov, ktoré budú neskôr upresnené.
@@ -13,10 +13,10 @@ podľa parametrov, ktoré budú neskôr upresnené.
 - [x] Vytvorenie webového rozhrania
 - [ ] Finálna verzia projektu
     - [x] Logovanie aplikačnej vrstvy
-    - [ ] Lokalizácia do troch jazykov
+    - [X] Lokalizácia do troch jazykov
     - [x] Uloženie konfigurácie databázy do .properties súboru
     - [x] Grafické rozhranie
-    - [ ] Rozdelenie aplikácie do vlákien
+    - [X] Rozdelenie aplikácie do vlákien
 
 
 ## Autori
