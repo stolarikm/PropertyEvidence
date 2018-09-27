@@ -1,7 +1,7 @@
 # PV168 - evidencia nehnuteľností
 Táto aplikácia predstavuje jednoduchú simuláciu systému pre realitnú spoločnosť.
 Umožňuje evidenciu majetku, klientov a predajných zmlúv s možnosťou vyhladávania,
-pridávania, vymazávania a upravovania jednotlivých entít. Dáta sa ukladajú buď do embedded Derby databázy (používanej hlavne pri testovaní), alebo vo finálne jverzii projektu do standalone Derby databázy (špecifikovanej v dbconfig.properties). 
+pridávania, vymazávania a upravovania jednotlivých entít. Dáta sa ukladajú buď do embedded Derby databázy (používanej hlavne pri testovaní), alebo vo finálnej verzii projektu do standalone Derby databázy (špecifikovanej v dbconfig.properties). 
 
 Projekt obsahuje desktopovú aj webovú verziu tejto aplikácie. 
 
