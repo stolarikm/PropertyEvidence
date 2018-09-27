@@ -1,0 +1,26 @@
+----------------------------------------------------------------
+Thu May 10 18:35:06 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0163-4ae7-f4d0-000006e80600 
+on database directory memory:/home/stolarikm/Desktop/pv168-project/PropertyEvidence/PropertyEvidenceDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1b9e1916 
+Loaded from file:/home/stolarikm/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=9.0.4+11
+user.dir=/home/stolarikm/Desktop/pv168-project/PropertyEvidence
+os.name=Linux
+os.arch=amd64
+os.version=4.13.0-41-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu May 10 18:35:12 CEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance 15fa44f2-0163-4ae7-f4d0-000006e80600 
+on database directory memory:/home/stolarikm/Desktop/pv168-project/PropertyEvidence/PropertyEvidenceDatabase with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@1b9e1916 
+Loaded from file:/home/stolarikm/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=9.0.4+11
+user.dir=/home/stolarikm/Desktop/pv168-project/PropertyEvidence
+os.name=Linux
+os.arch=amd64
+os.version=4.13.0-41-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

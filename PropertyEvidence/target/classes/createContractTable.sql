@@ -1,0 +1,6 @@
+CREATE TABLE CONTRACT (
+  id            BIGINT NOT NULL PRIMARY KEY GENERATED ALWAYS AS IDENTITY,
+  clientid      BIGINT NOT NULL,
+  propertyid    BIGINT NOT NULL,
+  dateofsigning DATE
+);
